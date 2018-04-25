@@ -20,8 +20,3 @@
 图片(示例) | 名称 | 大小 | 性质 | 预计时间
 ---------- | ---- | ---- | ---- | --------
 
-　　　　{% for post in site.posts %}
-
-　　　　　　{{ site.baseurl }}{{ post.url }}
-
-　　　　{% endfor %}

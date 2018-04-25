@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 嘤嘤嘤系列(12)
 permalink: /missions-qsh/yingyingying-12
 catagories: qsh,justhack,12x,2-3h 

@@ -1,6 +1,9 @@
 ---
 layout: default
-title: 嘤嘤嘤系列(12)
+title: 嘤嘤嘤系列
+size: 12
+feature: 纯Hack
+estimate: 2-2.5h
 permalink: /missions-qsh/yingyingying-12
 catagories: qsh,justhack,12x,2-3h 
 ---

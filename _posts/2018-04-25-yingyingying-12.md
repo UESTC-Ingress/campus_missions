@@ -19,7 +19,18 @@ categories: [qsh,justhack,12x,2-3h]
 - 性质：{{page.feature}}
 - 状态：{{page.status}}
 
-### 子任务介绍 
-{% for item in (1..page.size) %}
-
-{% endfor %}
+### 子任务介绍
+图标 | 名称 | 直线距离
+--- | --- | ----
+<img src="/assets/missions/yingyingying-12/1.png" width="50" height="50" /> | 天妒嘤才 | 701m
+<img src="/assets/missions/yingyingying-12/2.png" width="50" height="50" /> | 嘤击长空 | 701m
+<img src="/assets/missions/yingyingying-12/3.png" width="50" height="50" /> | 嘤雄所见略同 | 277m
+<img src="/assets/missions/yingyingying-12/4.png" width="50" height="50" /> | 老嘤抓小稽 | 567m
+<img src="/assets/missions/yingyingying-12/5.png" width="50" height="50" /> | 嘤年早逝 | 425m
+<img src="/assets/missions/yingyingying-12/6.png" width="50" height="50" /> | 嘤帝质疑 | 660m
+<img src="/assets/missions/yingyingying-12/7.png" width="50" height="50" /> | 大力嘤爪功 | 487m
+<img src="/assets/missions/yingyingying-12/8.png" width="50" height="50" /> | 嘤魂不散 | 466m
+<img src="/assets/missions/yingyingying-12/9.png" width="50" height="50" /> | 喝嘤料 | 421m
+<img src="/assets/missions/yingyingying-12/10.png" width="50" height="50" /> | 嘤姿勃发 | 286m
+<img src="/assets/missions/yingyingying-12/11.png" width="50" height="50" /> | 说嘤语 | 465m
+<img src="/assets/missions/yingyingying-12/12.png" width="50" height="50" /> | 嘤雄豪杰 | 1.2km

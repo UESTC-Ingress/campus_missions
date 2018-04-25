@@ -7,20 +7,20 @@
 ### 跨校区级别任务
 图片(示例) | 名称 | 大小 | 性质 | 预计时间
 {% for post in site.categories.all %}
-x | {{post.title}} | {{post.size}} | {{post.feature}} | {{post.estimate}}
+x | [{{post.title}}]({{ post.url }}) | {{post.size}} | {{post.feature}} | {{post.estimate}}
 {% endfor %}
 ### 清水河分区任务
 图片(示例) | 名称 | 大小 | 性质 | 预计时间
 {% for post in site.posts %}
-x | {{post.title}} | {{post.size}} | {{post.feature}} | {{post.estimate}}
+x | [{{post.title}}]({{ post.url }}) | {{post.size}} | {{post.feature}} | {{post.estimate}}
 {% endfor %}
 ### 沙河分区任务
 图片(示例) | 名称 | 大小 | 性质 | 预计时间
 {% for post in site.categories.sh %}
-x | {{post.title}} | {{post.size}} | {{post.feature}} | {{post.estimate}}
+x | [{{post.title}}]({{ post.url }}) | {{post.size}} | {{post.feature}} | {{post.estimate}}
 {% endfor %}
 ### 泛成电任务
 图片(示例) | 名称 | 大小 | 性质 | 预计时间
 {% for post in site.categories.fan %}
-x | {{post.title}} | {{post.size}} | {{post.feature}} | {{post.estimate}}
+x | [{{post.title}}]({{ post.url }}) | {{post.size}} | {{post.feature}} | {{post.estimate}}
 {% endfor %}

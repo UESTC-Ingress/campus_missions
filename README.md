@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 欢迎来到电子科技大学 Ingress任务索引
 
-You can use the [editor on GitHub](https://github.com/UESTC-Ingress/campus_missions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+在这里你可以查找泛成电地区的任务，也可以提交自己的任务或者对他人的任务进行修改，正式操作之前，请参考[任务创建者手册（待定）](https://github.com/UESTC-Ingress/campus_missions/Creators/)，以免出现不可预料的偏差。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+以下是任务索引：
 
-### Markdown
+### 跨校区级别任务
+图片(示例) | 名称 | 大小 | 性质 | 预计时间
+---------- | ---- | ---- | ---- | --------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 清水河分区任务
+图片(示例) | 名称 | 大小 | 性质 | 预计时间
+---------- | ---- | ---- | ---- | --------
 
-```markdown
-Syntax highlighted code block
+### 沙河分区任务
+图片(示例) | 名称 | 大小 | 性质 | 预计时间
+---------- | ---- | ---- | ---- | --------
 
-# Header 1
-## Header 2
-### Header 3
+### 泛成电任务
+图片(示例) | 名称 | 大小 | 性质 | 预计时间
+---------- | ---- | ---- | ---- | --------
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UESTC-Ingress/campus_missions/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

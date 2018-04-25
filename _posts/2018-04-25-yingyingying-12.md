@@ -6,6 +6,7 @@ size: 12
 feature: 纯Hack
 estimate: 2-2.5h
 permalink: /missions-qsh/yingyingying-12
+status: 已上线
 catagories: [qsh,justhack,12x,2-3h] 
 ---
 
@@ -16,6 +17,7 @@ catagories: [qsh,justhack,12x,2-3h]
 - 作者：{{page.author}}
 - 时间：{{page.estimate}}
 - 性质：{{page.feature}}
+- 状态：{{page.status}}
 
 ### 子任务介绍 
 {% for item in (1..page.size) %}

@@ -7,7 +7,7 @@ feature: 纯Hack
 estimate: 2-2.5h
 permalink: /missions-qsh/yingyingying-12
 status: 已上线
-catagory: [qsh,justhack,12x,2-3h] 
+categories: [qsh,justhack,12x,2-3h] 
 ---
 
 # {{page.title}} ({{page.size}})

@@ -10,7 +10,7 @@ categories: helpbook
 
 ### Q&A
 - Q:我能修改别人的任务吗？  
-  A:可以，但是你需要先fork后改了发PR。
+  A:可以，如果你是UESTC-Ingress成员，请联系@CharleYang PY权限，如果你不是本校成员，你也可以提出修改，但是你需要先fork后改了发PR。
   
 - Q:我能修改模板吗？  
   A:如果你有更好的模板，欢迎PR。

@@ -5,7 +5,7 @@ author: CharleYang
 size: 24
 feature: Hack+隐藏+Passphrase
 estimate: 1-2d
-permalink: /missions-qsh/yingyingying-12
+permalink: /missions-qsh/uestc-schools-24
 status: 施工中
 categories: [all,justhack,24x,1-2h] 
 ---
